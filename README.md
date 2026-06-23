@@ -1,6 +1,3 @@
-## 📄 **فایل کامل `README.md` - نسخه حرفه‌ای و مدرن**
-
-```markdown
 <p align="center">
   <img src="https://img.shields.io/badge/Exchange%20Rates-PWA-blueviolet?style=for-the-badge&logo=pwa" alt="Exchange Rates PWA">
 </p>
@@ -127,11 +124,9 @@ cURL Extension    # API calls
 SimpleXML         # RSS parsing
 JSON Extension    # Configuration
 Web Server        # Apache/Nginx
-```
 
-### ⚡ **Installation**
 
-```bash
+
 # 1. Clone the repository
 git clone https://github.com/rmombeni/exchange-rates-pwa.git
 cd exchange-rates-pwa
